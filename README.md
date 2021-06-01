@@ -1,2 +1,2 @@
 # Dacon
-Particiapte Korea's Data analysis Project
+participating in Korean data analysis contest.
