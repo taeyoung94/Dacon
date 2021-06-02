@@ -1,2 +1,2 @@
 # Dacon
-Data analysis
+participating in Korean data analysis contest.
